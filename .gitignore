@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RegularExpressions/obj/Debug
+/RegularExpressions/RegularExpressions.csproj.user
+/Streams/bin/Debug
+/Streams/obj/Debug
+/Streams/Streams.csproj.user
+/RegularExpressions/bin/Debug

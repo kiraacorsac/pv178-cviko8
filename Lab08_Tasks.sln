@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "Streams\Streams.csproj", "{BA29C312-70E1-4A5B-BEEF-33AF0D8F38A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{C8179EFB-6B18-4E8F-A3CB-809D3E7A4C78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA29C312-70E1-4A5B-BEEF-33AF0D8F38A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA29C312-70E1-4A5B-BEEF-33AF0D8F38A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA29C312-70E1-4A5B-BEEF-33AF0D8F38A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA29C312-70E1-4A5B-BEEF-33AF0D8F38A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8179EFB-6B18-4E8F-A3CB-809D3E7A4C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8179EFB-6B18-4E8F-A3CB-809D3E7A4C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8179EFB-6B18-4E8F-A3CB-809D3E7A4C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8179EFB-6B18-4E8F-A3CB-809D3E7A4C78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
